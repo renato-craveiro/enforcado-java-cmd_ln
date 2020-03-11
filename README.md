@@ -1,4 +1,4 @@
-# enforcado-java-cmd_ln
+# Enforcado (JAVA) em linha de comandos (PT ONLY)
 Jogo do Enforcado em linha de comandos (PT ONLY)
 
 
