@@ -17,3 +17,4 @@ Jogo do Enforcado em linha de comandos (PT ONLY)
     Divirtam-se.
     
     
+    *NOTE: FILES ARE NOT IN THEIR CORRECT PATH / PACKAGES (errors may occur)*
